@@ -1,0 +1,2 @@
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csprojAssemblyReference.cache
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CoreCompileInputs.cache
