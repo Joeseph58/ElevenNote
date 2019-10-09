@@ -10,16 +10,16 @@
     @Html.ActionLink("Create New", "Create")
 </p>
 
-   @if (TempData.ContainsKey("SaveResult"))
-    {
-        <div class="alert alert-success fade in" role="alert">
+@if (TempData.ContainsKey("SaveResult"))
+{
+    <div class="alert alert-success fade in" role="alert">
 
         <button type="button" class="close" data-dismiss="alert">
             <span>&times;</span>
         </button>
         @TempData["SaveResult"]
-        </div>
-    }
+    </div>
+}
 
 <table class="table">
     <tr>
@@ -48,9 +48,9 @@
                 @Html.DisplayFor(modelItem => item.CreatedUtc)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("Edit", "Edit", new { id = item.NoteId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.NoteId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.NoteId })
             </td>
         </tr>
     }
