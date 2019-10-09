@@ -14,3 +14,9 @@ C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\Ent
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.csproj.CopyComplete
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\EverNote.Data.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\EverNote.Models.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\EverNote.Data.pdb
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\EverNote.Data.dll.config
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\EverNote.Models.pdb
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\EverNote.Models.dll.config
