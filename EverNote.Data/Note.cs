@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,6 +15,9 @@ namespace EverNote.Data
 
         [Required]
         public Guid OwnerId { get; set; }
+        [ForeignKey("Catagory")]
+        public int CatagoryID { get; set; }
+        public virtual Catagory Catagory { get; set; }
 
         [Required]
         public string Title { get; set; }

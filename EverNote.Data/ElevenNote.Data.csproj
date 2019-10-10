@@ -54,13 +54,38 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Catagory.cs" />
     <Compile Include="IdentityModels.cs" />
+    <Compile Include="Migrations\201910091331048_InitialCreate.cs" />
+    <Compile Include="Migrations\201910091331048_InitialCreate.Designer.cs">
+      <DependentUpon>201910091331048_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910101342244_addcatagories.cs" />
+    <Compile Include="Migrations\201910101342244_addcatagories.Designer.cs">
+      <DependentUpon>201910101342244_addcatagories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910101402585_catagoriesToNotes.cs" />
+    <Compile Include="Migrations\201910101402585_catagoriesToNotes.Designer.cs">
+      <DependentUpon>201910101402585_catagoriesToNotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Note.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201910091331048_InitialCreate.resx">
+      <DependentUpon>201910091331048_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910101342244_addcatagories.resx">
+      <DependentUpon>201910101342244_addcatagories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910101402585_catagoriesToNotes.resx">
+      <DependentUpon>201910101402585_catagoriesToNotes.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

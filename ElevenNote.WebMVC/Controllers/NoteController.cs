@@ -26,6 +26,9 @@ namespace ElevenNote.WebMVC.Controllers
         //GET
         public ActionResult Create()
         {
+            var userId = Guid.Parse(User.Identity.GetUserId());
+            CatagoryService service = new CatagoryService(userId);
+            ViewBag.Catagories = service.GetCatagory();
             return View();
         }
 
