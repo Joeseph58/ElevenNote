@@ -20,3 +20,11 @@ C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\Eve
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\EverNote.Data.dll.config
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\EverNote.Models.pdb
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\EverNote.Models.dll.config
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\System.Net.Http.Formatting.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\System.Web.Http.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\System.Web.Http.WebHost.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\System.Net.Http.Formatting.xml
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\System.Web.Http.xml
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Service\bin\Debug\System.Web.Http.WebHost.xml

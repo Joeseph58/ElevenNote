@@ -21,3 +21,11 @@ C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\Entit
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\EntityFramework.SqlServer.xml
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.xml
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.WebHost.xml

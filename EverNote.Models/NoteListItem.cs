@@ -12,6 +12,7 @@ namespace EverNote.Models
         public int NoteId { get; set; }
         public string Title { get; set; }
         [UIHint("Starred")]
+        [Display(Name = "Important")]
         public bool IsStarred { get; set; }
         public string CatagoryTitle { get; set; }
         [Display(Name = "Created")]

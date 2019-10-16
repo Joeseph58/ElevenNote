@@ -112,3 +112,9 @@ C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CopyComplete
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.dll
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.pdb
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.xml
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.xml
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.xml

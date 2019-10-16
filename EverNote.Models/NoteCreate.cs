@@ -17,5 +17,7 @@ namespace EverNote.Models
         public string Content { get; set; }
         public int CatagoryID { get; set; }
 
+
+
     }
 }
