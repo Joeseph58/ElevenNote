@@ -61,3 +61,9 @@ C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebAPI.Tests\obj\Debu
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebAPI.Tests\bin\Debug\EverNote.Data.dll
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebAPI.Tests\bin\Debug\EverNote.Data.pdb
 C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebAPI.Tests\bin\Debug\EverNote.Data.dll.config
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebAPI.Tests\bin\Debug\ElevenNote.Service.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebAPI.Tests\bin\Debug\EverNote.Models.dll
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebAPI.Tests\bin\Debug\ElevenNote.Service.pdb
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebAPI.Tests\bin\Debug\ElevenNote.Service.dll.config
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebAPI.Tests\bin\Debug\EverNote.Models.pdb
+C:\Eleven Fifty Academy\1_Blue Badge\ElevenNote\ElevenNote.WebAPI.Tests\bin\Debug\EverNote.Models.dll.config
